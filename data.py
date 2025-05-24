@@ -15,3 +15,9 @@ from flask import Flask, request, jsonify
 import threading
 from flask_cors import CORS
 
+"""
+automation code must be here.
+"""
+
+def main(driver):
+    pass
